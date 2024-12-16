@@ -1,0 +1,1 @@
+curl "https://api.openweathermap.org/data/2.5/weather?lat=-15.794&lon=-47.882&appid=API_Key"
